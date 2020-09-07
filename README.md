@@ -7,6 +7,7 @@ After rotation, inpainting, and rendering:<br/>
 ![picture](output/view_6.png)
 ![picture](output/view_12.png)
 ![picture](output/view_18.png)
+![picture](output/view_24.png)
 <br/><br/><br/>
 Other angles are available in output directory.
 <br/><br/><br/>
