@@ -1,16 +1,17 @@
 This repo renders 3D rotation on mesh and inpaints colors on missing pixels after rotation. Additional, it supports 2D in-plane rotation. 
 
-1. 3D rotation example:
+3D rotation example:
 original image: <br/>
 ![picture](materials/original_image.png) <br/>
 After rotation, inpainting, and rendering:<br/>
 ![picture](output/view_6.png)
 ![picture](output/view_12.png)
 ![picture](output/view_18.png)
-<br/>
+<br/><br/><br/>
 Other angles are available in output directory.
+<br/><br/><br/>
 
-2. 2D rotation example:<br/>
+2D rotation example:<br/>
 original image: <br/>
 ![picture](materials/2008_001971_rgb.png)<br/>
 
